@@ -5,7 +5,7 @@ These are my current configurations for Kalico. Stable(-ish) configurations have
 
 ### Core Hardware
 
- - **Printer:** [Sovol SV08](https://www.creality.com/products/ender-3-pro-3d-printer)
+ - **Printer:** [Sovol SV08](https://www.sovol3d.com/products/sovol-sv08-3d-printer)
  - **Mainboard:** Stock
  - **Steppers:** Stock
  - **Hotend/Extruder:** [Micro-Swiss FlowTech Hotend](https://store.micro-swiss.com/collections/micro-swiss-flowtech/products/microswiss-flowtech-hotend-for-sovol-sv08) / Stock Extruder
